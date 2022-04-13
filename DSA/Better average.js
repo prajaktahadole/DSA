@@ -1,3 +1,32 @@
+// Better average Ended
+// Description
+
+// You are given scores of last N matches of two different batsmen in the form of arrays. 
+// Your task is to print the ceil value of better average among the two in case that value is even. 
+// If that value is not even, print -1.
+
+
+// Input
+// Input Format
+
+// First line contains the number of matches N.
+
+// Second line contains N space separated integers describing scores of the first batsman.
+
+// Third line contains N space separated integers describing scores of the second batsman.
+
+// Constraints
+// N<100
+
+
+// Output
+// Print an integer which can either be ceil of the better average of the two batsmen 
+// or -1 depending upon the ceil of better average.
+
+
+
+
+
 function match(n, x, y){
 
     var sumx = 0;

@@ -1,3 +1,31 @@
+// Two Array One Sum Ended
+// Description
+
+// You are given two arraysAandB, both of the same sizeN
+// You have to find the sum of all elements in both the arrayAandB
+
+
+// Input
+// The first line of the input containsT, the number of test cases.
+// The first line of the test case, containsNthe size of the two arrays.
+// The next line containsNspace separated integers denoting the elements of the arrayA
+// The last line of each test case containsNspace separated integers, denoting the elements of the arrayB
+
+// 1 <=T<= 10
+// 1 <=N<= 100
+// 1 <=A[i], B[i]<= 100
+
+
+// Output
+// For each test case, print a single integer denoting the sum of all the elements in both the arrays, on a new line.
+
+
+
+
+
+
+
+
 function sum(n, x, y){
     var sum = 0;
     for(var i = 0; i < n; i++){
