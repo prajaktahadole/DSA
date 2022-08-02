@@ -1,3 +1,33 @@
+// Substring under condition 
+
+// Description
+// Given a string S, you need to find the count of all contiguous substrings starting and ending with same character.
+
+// Input
+// Input Format :
+// First and the only line contains a string S
+
+// Constraints:
+// Length of S <= 1000
+
+
+// Output
+// Output the count
+
+// Sample Input 1 
+// abcab
+// Sample Output 1
+// 7
+
+
+
+
+
+
+
+
+
+
 function subStrUnderCond(s){
     var n = s.length-1;
     var count = 0;
