@@ -1,4 +1,4 @@
-// Again a classical problem -96:2:50
+// Again a classical problem 
 // Description
 
 // A bracket is considered to be any one of the following characters: (, ), {, }, [, or ].

@@ -1,4 +1,4 @@
-// Binary Equivalent -96:7:46
+// Binary Equivalent 
 // Description
 
 // Given an integer n, you need to find out its binary representation
