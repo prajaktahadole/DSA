@@ -1,4 +1,4 @@
-// Power of 2 -132:21:57
+// Power of 2 
 // Description
 
 // Given an integer N, check if the number is power of 2 or not.
