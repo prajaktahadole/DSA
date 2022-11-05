@@ -1,3 +1,23 @@
+input = "caabca";
+result = "cab"
+
+/// using map
+
+var str = "caabca";
+var map = new Map();
+
+for(var i = 0; i < str.length; i++)
+{
+    if(!map.has(str[i]))
+    {
+        map.set(str[i], i)
+    }
+}
+
+
+
+/// using Object
+
 input = "aabca";
 result = "abc"
 
@@ -25,6 +45,11 @@ console.log(res)
 
 
 
+
+
+
+
+/// using loop
 
 
 input = "aabca";
